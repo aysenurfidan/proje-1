@@ -18,12 +18,17 @@ dokuzuncu değer(4): 7 5 ten küçük olduğu için soldan 1 ve 3 ten büğük o
 
 onuncu değer(2): 7 5 ten küçük oluğundan soldan 1 den büyük ve 3 ten küçük olduğu için 3 ün soluna yazılır.
 
-          7
-        /   \
-      5      8
-    /  \      \
-  1     6      9
- / \
-0   3
-   / \
-  2   4 
+        
+             7
+           /   \
+          /     \
+         5       8
+       /   \       \
+      /     \       \
+     1       6       9 
+   /   \ 
+  /     \
+ 0       3
+       /   \
+      /     \
+     2       4
